@@ -4,4 +4,4 @@
 
 
 example for insert image to github
-![Kirito](kirito.png)
+![Kirito](krito.png)
